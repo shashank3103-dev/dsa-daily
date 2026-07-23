@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shashank3103-dev/dsa-daily/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/shashank3103-dev/dsa-daily/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

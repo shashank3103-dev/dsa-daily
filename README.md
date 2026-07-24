@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shashank3103-dev/dsa-daily/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shashank3103-dev/dsa-daily/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

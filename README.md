@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shashank3103-dev/dsa-daily/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

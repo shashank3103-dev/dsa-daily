@@ -4,5 +4,14 @@
  */
 var fib = function (n) {
     if (n <= 1) return n;
-    return fib(n - 1) + fib(n - 2);
+   
+   let a = 0;
+   let b = 1; 
+
+   for(let i = 2; i<=n; i++){
+    let current = a + b;
+    a= b; 
+    b = current;
+   }
+   return b;
 };

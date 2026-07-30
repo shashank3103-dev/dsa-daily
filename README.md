@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shashank3103-dev/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shashank3103-dev/dsa-daily/tree/master/0290-word-pattern) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shashank3103-dev/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shashank3103-dev/dsa-daily/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |

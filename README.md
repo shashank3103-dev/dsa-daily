@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashank3103-dev/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/shashank3103-dev/dsa-daily/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shashank3103-dev/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashank3103-dev/dsa-daily/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/shashank3103-dev/dsa-daily/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/shashank3103-dev/dsa-daily/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/shashank3103-dev/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashank3103-dev/dsa-daily/tree/master/0415-add-strings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shashank3103-dev/dsa-daily/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/shashank3103-dev/dsa-daily/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank3103-dev/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/shashank3103-dev/dsa-daily/tree/master/0217-contains-duplicate) |

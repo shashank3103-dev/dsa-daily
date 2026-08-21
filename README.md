@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shashank3103-dev/dsa-daily/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashank3103-dev/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/shashank3103-dev/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

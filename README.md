@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shashank3103-dev/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shashank3103-dev/dsa-daily/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/shashank3103-dev/dsa-daily/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shashank3103-dev/dsa-daily/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/shashank3103-dev/dsa-daily/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shashank3103-dev/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashank3103-dev/dsa-daily/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/shashank3103-dev/dsa-daily/tree/master/0709-to-lower-case) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/shashank3103-dev/dsa-daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/shashank3103-dev/dsa-daily/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/shashank3103-dev/dsa-daily/tree/master/0175-combine-two-tables) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shashank3103-dev/dsa-daily/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

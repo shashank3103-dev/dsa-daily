@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/shashank3103-dev/dsa-daily/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1796-second-largest-digit-in-a-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shashank3103-dev/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/1528-shuffle-string) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shashank3103-dev/dsa-daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/shashank3103-dev/dsa-daily/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shashank3103-dev/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shashank3103-dev/dsa-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/shashank3103-dev/dsa-daily/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/shashank3103-dev/dsa-daily/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shashank3103-dev/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |

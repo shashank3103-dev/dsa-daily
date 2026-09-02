@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashank3103-dev/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/shashank3103-dev/dsa-daily/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shashank3103-dev/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashank3103-dev/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |

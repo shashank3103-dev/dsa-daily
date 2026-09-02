@@ -3,5 +3,7 @@
  * @return {number}
  */
 var countSegments = function (s) {
-    return s.split(" ").filter(word => word !== "").length;
+    let arr = s.split(' ').filter((item) => item !== "");
+    console.log(arr)
+    return arr.length
 };

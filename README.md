@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/shashank3103-dev/dsa-daily/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashank3103-dev/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/shashank3103-dev/dsa-daily/tree/master/2235-add-two-integers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shashank3103-dev/dsa-daily/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashank3103-dev/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank3103-dev/dsa-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -232,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shashank3103-dev/dsa-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

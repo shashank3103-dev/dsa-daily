@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shashank3103-dev/dsa-daily/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shashank3103-dev/dsa-daily/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/shashank3103-dev/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/shashank3103-dev/dsa-daily/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3903-smallest-stable-index-i) |
 ## Database

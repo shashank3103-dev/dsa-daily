@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/shashank3103-dev/dsa-daily/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shashank3103-dev/dsa-daily/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashank3103-dev/dsa-daily/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shashank3103-dev/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shashank3103-dev/dsa-daily/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -160,12 +161,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/shashank3103-dev/dsa-daily/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/1512-number-of-good-pairs) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shashank3103-dev/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shashank3103-dev/dsa-daily/tree/master/0278-first-bad-version) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shashank3103-dev/dsa-daily/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Interactive
 |  |
 | ------- |

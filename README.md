@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shashank3103-dev/dsa-daily/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/shashank3103-dev/dsa-daily/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashank3103-dev/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shashank3103-dev/dsa-daily/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shashank3103-dev/dsa-daily/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/shashank3103-dev/dsa-daily/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shashank3103-dev/dsa-daily/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/shashank3103-dev/dsa-daily/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/shashank3103-dev/dsa-daily/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/shashank3103-dev/dsa-daily/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shashank3103-dev/dsa-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shashank3103-dev/dsa-daily/tree/master/0389-find-the-difference) |
+| [0905-sort-array-by-parity](https://github.com/shashank3103-dev/dsa-daily/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

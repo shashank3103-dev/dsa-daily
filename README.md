@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shashank3103-dev/dsa-daily/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashank3103-dev/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/shashank3103-dev/dsa-daily/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/shashank3103-dev/dsa-daily/tree/master/3870-count-commas-in-range) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shashank3103-dev/dsa-daily/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/shashank3103-dev/dsa-daily/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/shashank3103-dev/dsa-daily/tree/master/1486-xor-operation-in-an-array) |
 ## Greedy
 |  |
 | ------- |

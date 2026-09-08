@@ -3,11 +3,8 @@
  * @return {number}
  */
 var countCommas = function (n) {
-    let count = 0;
-    for (let i = 0; i <= n; i++) {
-        if (i >= 1000) {
-            count++;
-        }
+    if (n < 1000) {
+        return 0;
     }
-    return count;
+    return n - 999;
 };

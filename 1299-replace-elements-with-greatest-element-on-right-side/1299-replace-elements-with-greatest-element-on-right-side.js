@@ -3,14 +3,13 @@
  * @return {number[]}
  */
 var replaceElements = function (arr) {
-    for (let i = 0; i < arr.length; i++) {
-        let greatest = -1;
-        for (let j = i + 1; j < arr.length; j++) {
-            if (arr[j] > greatest) {
-                greatest = arr[j]
-            }
-        }
+    let greatest = -1;
+    for (let i = arr.length - 1; i >= 0; i--) {
+        let current = arr[i];
         arr[i] = greatest;
+        if (current > greatest) {
+            greatest = current;
+        }
     }
     return arr;
 };

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashank3103-dev/dsa-daily/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shashank3103-dev/dsa-daily/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/shashank3103-dev/dsa-daily/tree/master/2235-add-two-integers) |
+| [3870-count-commas-in-range](https://github.com/shashank3103-dev/dsa-daily/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashank3103-dev/dsa-daily/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shashank3103-dev/dsa-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table

@@ -5,8 +5,8 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-JavaScript-blue)
 
 ### 🚀 Performance
-- **Runtime:** 40 ms
-- **Memory:** 54 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
